@@ -1,0 +1,22 @@
+.carousel-caption {
+    top: 10%;
+    bottom: auto;
+    text-align: start;
+    font-family: "Segoe UI";
+  }
+
+  .carousel, .carousel-inner > .item > img {
+    width: 100%;
+    height: 70%;
+  }
+
+  html{
+  scroll-behavior: smooth;
+  }
+
+  .navbar-brand{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    color: rgba(172, 243, 172, 0.849);
+ }
